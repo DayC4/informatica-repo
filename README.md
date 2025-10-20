@@ -1,2 +1,3 @@
 # informatica-repo
-Para practicas
+Para practica.
+Vamos a agregar la primera version localmente
